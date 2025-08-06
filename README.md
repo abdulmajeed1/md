@@ -1,3 +1,6 @@
+# My Diagram
+
+```mermaid
 graph TD
     A[Saudi National SSL Root CA] --> B["Saudi National SSL CA
     (Issuing CA)"]
